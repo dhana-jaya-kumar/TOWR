@@ -10,7 +10,7 @@ A Simulation Test Bed in PyBullet physics engine for Trajectory Optimizer for Wa
 <i>Climbing Stairs(left), Turning about the axis(centre), Trotting to a given target(right) </i><br>
 </p>
 
-## Introduction:
+##
 The growing field of *Robot Learning* requires faster prototyping and flexible simulation arrangments to incorprate various learning based frameworks.The arrival of modules like *Tensorflow,Pytorch* for learning and *Pybullet* for simulation has made *Python*, a very attractive choice for training and testing learning based agents in robots.This codebase is an attempt to build a pythonic wrapper arround **TOWR - Trajectory Optimizer for Walking Robots**(https://github.com/ethz-adrl/towr).
 
 ## TOWR:
@@ -26,7 +26,7 @@ TOWR is entirely developed in C++ and has inbuilt support to visualize the gener
 the usage additional ROS packages.This is quite cumbersome and not very straightforward for the robot learning community givent the ease that *Pybullet* provides us with.In the repo, we have built python functions to visualize aswell as simulate the TOWR generated trajectories on the robot platform ANYmal with different gait types and multiple terrains(flat ground and stairs as of now)
 
 
-**Note:**
+***Note:***
 
 * The **Green Robot** is a Visual robot that has no incorprated physics but just act as a visual aid to display the ideal TOWR generated trajectories.
 * The **Grey Robot** is the real physical robot model (with mass and inertia) in which the computed joint angles (corresponding to the TOWR trajectory) are applied.
