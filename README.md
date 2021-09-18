@@ -1,9 +1,9 @@
 # TOWR
 A Simulation Test Bed in PyBullet physics engine for Trajectory Optimizer for Walking Robots (TOWR)
 <p align="center">
-   <img width="260" height="280" src="https://github.com/lok-i/towr_pybullet/blob/master/media/stairs.gif">
-   <img width="260" height="280" src="https://github.com/lok-i/towr_pybullet/blob/master/media/turn.gif">
-   <img width="260" height="280" src="https://github.com/lok-i/towr_pybullet/blob/master/media/trot.gif">
+   <img width="260" height="280" src="https://github.com/dhanajaya78/TOWR/blob/main/media/stairs.gif">
+   <img width="260" height="280" src="https://github.com/dhanajaya78/TOWR/blob/main/media/turn.gif">
+   <img width="260" height="280" src="https://github.com/dhanajaya78/TOWR/blob/main/media/trot.gif">
 </p>
 
 <p align = "center">
